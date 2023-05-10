@@ -1,3 +1,5 @@
+// Asynchronous programming: Write a function that makes a GET request to an API and returns the response as a promise. You can use any library you prefer (e.g. Axios, Fetch, etc.).
+
 const getElixirsPromise = function() {
     return fetch('https://wizard-world-api.herokuapp.com/Elixirs')
 }

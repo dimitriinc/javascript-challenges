@@ -1,3 +1,5 @@
+// Implement a basic sorting algorithm: Write a function that takes an array of numbers and sorts them in ascending order using any sorting algorithm of your choice (e.g. bubble sort, insertion sort, quicksort, etc.).
+
 function bubbleSort(array) {
     const len = array.length
     for (let i = 0; i < len; i++) {

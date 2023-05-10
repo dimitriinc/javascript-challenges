@@ -1,3 +1,5 @@
+// Object-oriented programming (OOP): Write a class in JavaScript that represents a car. It should have properties such as make, model, year, and color, and methods such as start, stop, and accelerate.
+
 class Car {
 
     constructor(make, model, year, color) {
@@ -40,5 +42,3 @@ tesla.accelerate()
 tesla.break()
 
 console.log(tesla)
-
-export default Car
